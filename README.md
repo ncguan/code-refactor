@@ -29,5 +29,14 @@ This project was built to make the codebase follow accessibility standards to op
     </ul>
 </nav>
 ```
+```css
+header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+```
 ## Author Links
 [GitHub](https://github.com/ncguan)
