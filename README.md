@@ -2,6 +2,8 @@
 
 ## Site Screenshot
 ![Horiseon Website](website-screenshot.png)
+[Link to Deployed Website](https://ncguan.github.io/code-refactor/)
+
 ## Technologies Used
 - HTML
 - CSS
