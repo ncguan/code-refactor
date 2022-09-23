@@ -10,7 +10,7 @@
 
 ## Summary
 
-This project was built to make the codebase follow accessibility standards to optimized for search engines. The codebase follows accessibility standards by having semantic HTML elements, the elements follow a logical structure, image elements have alt atrributes, heading attributes are in sequential order, and a title element with a descriptive title.
+This project was built to make the codebase follow accessibility standards to optimized for search engines. The codebase has semantic HTML elements, image elements with alt atrributes, and a title element with a descriptive title to follow accessibility strandards. The code was refactored by removing duplicate css code to make the code more readable and comments were added to describe the code.
 
 
 ## Code Snippet
