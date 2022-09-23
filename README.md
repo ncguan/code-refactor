@@ -1,7 +1,7 @@
 # Code Refactor
 
 ## Site Screenshot
-
+![Horiseon Website](website-screenshot.png)
 ## Technologies Used
 - HTML
 - CSS
